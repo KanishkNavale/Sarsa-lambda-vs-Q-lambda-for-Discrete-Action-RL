@@ -1,5 +1,5 @@
 # SARSA-lambda vs Q-lambda for Discrete Action RL
-SARSA-lambda and Q-lambda are model-free reinforcement learning algorithms which learn by bootstrapping from the current estimate of the value function.
+SARSA-lambda and Q-lambda are model-free reinforcement learning algorithms that learn by bootstrapping from the current estimate of the value function.
 
 ## Algorithm
 Source : 'https://ipvs.informatik.uni-stuttgart.de/mlr/wp-content/uploads/2016/06/03-TemporalDiffHung.pdf'
